@@ -1,0 +1,6 @@
+product_id,product_code   ,category    ,price,
+1         ,IPHONE X       ,MOBILE_PHONE,800
+2         ,IPHONE XR      ,MOBILE_PHONE,600
+3         ,SAMSUNG 9      ,MOBILE_PHONE,550
+4         ,IPHONE CHARGER ,ACCESSORIES ,100
+5         ,SAMSUNG CHARGER,ACCESSORIES ,60
